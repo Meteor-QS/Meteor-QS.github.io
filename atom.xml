@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Meteor&#39;s Blog</title>
   
   
   <link href="http://meteor-qs.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://meteor-qs.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Meteor</name>
     
   </author>
   
