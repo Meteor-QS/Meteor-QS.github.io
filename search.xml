@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>post title with whitespace</title>
-      <link href="/2022/10/01/post-title-with-whitespace/"/>
-      <url>/2022/10/01/post-title-with-whitespace/</url>
+      <title>hexo的个性化配置</title>
+      <link href="/2022/10/01/demo/"/>
+      <url>/2022/10/01/demo/</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
       
     </entry>
     
